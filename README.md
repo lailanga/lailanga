@@ -7,5 +7,5 @@ Encontre-me em outros lugares...
 
 
 
-[![Laiane Langa github stats](https://github-readme-stats.vercel.app/api?username=lailanga&theme=dark&show_icons=true&count_private=true)](https://github.com/lailanga)
+[![Laiane Langa github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lailanga&theme=dark&show_icons=true&count_private=true)](https://github.com/lailanga)
 
