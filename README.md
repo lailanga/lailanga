@@ -6,7 +6,7 @@ Desenvolvedora Web | Códigos e Desafios 🚀
 💡 Sempre em busca de aprendizado e crescimento  
 🎯 Focada no desenvolvimento contínuo e na superação de desafios  
 
-💻 HTML, CSS, JavaScript, Python *  
+💻 HTML, CSS, JavaScript
 🧩 React  
 🔨 Visual Studio Code, Git   
 
