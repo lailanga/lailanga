@@ -2,7 +2,7 @@
 ## Laiane Langa
 Desenvolvedora Web | Códigos e Desafios 🚀
   
-🌐 Desenvolvimento Front-end e Back-end  
+🌐 Front-end e Back-end  
 💡 Sempre em busca de aprendizado e crescimento  
 🎯 Focada no desenvolvimento contínuo e na superação de desafios  
 
