@@ -1,14 +1,5 @@
 ### E ai, galera?  👽
 ## Laiane Langa
-Desenvolvedora Web | Códigos e Desafios 🚀
-  
-🌐 Front-end e Back-end  
-💡 Sempre em busca de aprendizado e crescimento  
-🎯 Focada no desenvolvimento contínuo e na superação de desafios  
-
-💻 HTML, CSS, JavaScript  
-🧩 React  
-🔨 Visual Studio Code, Git   
 
 ##### Conecte-se comigo 👩‍💻  
 
