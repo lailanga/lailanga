@@ -3,6 +3,8 @@
 
 ##### Conecte-se comigo 👩‍💻  
 
+https://www.laianelanga.com.br/
+
 Encontre-me em outros lugares...
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laiane-langa)](https://www.linkedin.com/in/laiane-langa)
