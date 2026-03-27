@@ -1,15 +1,35 @@
-### E ai, galera?  👽
-## Laiane Langa
+## 👋 Olá, eu sou a Laiane Langa
 
-##### Conecte-se comigo 👩‍💻  
+💡 Analista de suporte com foco em **soluções práticas usando tecnologia**
 
-https://www.laianelanga.com.br/
+No meu dia a dia, atuo resolvendo problemas reais com:
+- Soluções simples com Python
+- Extração e manipulação de dados
+- Integrações simples
+- Uso de IA para acelerar soluções
 
-Encontre-me em outros lugares...
+---
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laiane-langa)](https://www.linkedin.com/in/laiane-langa)
+## 🚀 Projetos em destaque
 
+🔹 [Exportação de usuários via JSON para Excel](https://github.com/lailanga/exportar-usuarios-json-para-excel)  
+Script em Python que transforma dados capturados via navegador em planilha Excel.
 
+---
 
-[![Laiane Langa github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lailanga&theme=dark&show_icons=true&count_private=true)](https://github.com/lailanga)
+## 🌐 Onde me encontrar
 
+🔗 Site: https://www.laianelanga.com.br/  
+🔗 LinkedIn: https://www.linkedin.com/in/laiane-langa  
+
+---
+
+## ⚙️ Como trabalho
+
+Resolvo problemas de sistema na prática, utilizando análise, exploração de dados e automação com apoio de IA e Python.
+
+---
+
+## 🎯 Objetivo
+
+Compartilhar soluções simples para problemas reais do dia a dia com tecnologia.
