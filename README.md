@@ -20,7 +20,7 @@ Script em Python que transforma dados capturados via navegador em planilha Excel
 ## 🌐 Onde me encontrar
 
 🔗 Site: https://www.laianelanga.com.br/  
-🔗 LinkedIn: www.linkedin.com/in/laiane-langa 
+🔗 LinkedIn: www.linkedin.com/in/laiane-langa
 
 ---
 
