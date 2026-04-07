@@ -12,6 +12,9 @@ No meu dia a dia, atuo resolvendo problemas reais com:
 
 ## 🚀 Projetos em destaque
 
+🔹 [Divisor de Planilhas](https://github.com/lailanga/divisor-planilhas.git)  
+Ferramenta simples com interface gráfica para dividir planilhas Excel grandes.
+
 🔹 [Separador inteligente PDF](https://github.com/lailanga/separador-inteligente-pdf.git)  
 Ferramenta para separar PDFs automaticamente e renomear arquivos com base em dados extraídos do documento.
 
