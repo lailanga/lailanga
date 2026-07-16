@@ -10,19 +10,6 @@ No meu dia a dia, atuo resolvendo problemas reais com:
 
 ---
 
-## 🚀 Projetos em destaque
-
-🔹 [Divisor de Planilhas](https://github.com/lailanga/divisor-planilhas.git)  
-Ferramenta simples com interface gráfica para dividir planilhas Excel grandes.
-
-🔹 [Separador inteligente PDF](https://github.com/lailanga/separador-inteligente-pdf.git)  
-Ferramenta para separar PDFs automaticamente e renomear arquivos com base em dados extraídos do documento.
-
-🔹 [Exportação de usuários via JSON para Excel](https://github.com/lailanga/exportar-usuarios-json-para-excel)  
-Script em Python que transforma dados capturados via navegador em planilha Excel.
-
----
-
 ## 🌐 Onde me encontrar
 
 🔗 Site: https://www.laianelanga.com.br/  
