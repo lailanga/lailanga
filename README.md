@@ -1,12 +1,6 @@
 ## 👋 Olá, eu sou a Laiane Langa
 
-💡 Analista de suporte com foco em **soluções práticas usando tecnologia**
-
-No meu dia a dia, atuo resolvendo problemas reais com:
-- Soluções simples com Python
-- Extração e manipulação de dados
-- Integrações simples
-- Uso de IA para acelerar soluções
+💡 Analista de suporte | **eu gosto de resolver problemas**
 
 ---
 
@@ -14,12 +8,6 @@ No meu dia a dia, atuo resolvendo problemas reais com:
 
 🔗 Site: https://www.laianelanga.com.br/  
 🔗 LinkedIn: www.linkedin.com/in/laiane-langa
-
----
-
-## ⚙️ Como trabalho
-
-Resolvo problemas de sistema na prática, utilizando análise, exploração de dados e automação com apoio de IA e Python.
 
 ---
 
